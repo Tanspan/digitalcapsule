@@ -1,0 +1,5 @@
+body { background: #f8f9fa; }
+.locked   { border-left: 4px solid red; }
+.unlocked { border-left: 4px solid green; }
+.blur     { filter: blur(5px); }
+.countdown { color: red; font-weight: bold; }
