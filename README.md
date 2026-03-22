@@ -79,9 +79,9 @@ http://127.0.0.1:5000
 ```
 
 ---
+## Screenshots
 
-## Developer
+<img width="692" height="643" alt="Screenshot 2026-03-22 204519" src="https://github.com/user-attachments/assets/55e405c7-84c8-4d9c-ae2d-e8ed34742d82" />
+<img width="1886" height="1009" alt="Screenshot 2026-03-22 204533" src="https://github.com/user-attachments/assets/68804f56-7649-4ecf-938d-ca3b5f7131e0" />
 
-- Name - Tanusri
-- Branch - CSE 3rd Year
-- GitHub - https://github.com/tanspan
+
