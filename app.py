@@ -5,7 +5,14 @@ from datetime import datetime
 app = Flask(__name__)
 app.secret_key = 'capsule123'
 
-DB = {'host':'localhost', 'user':'root', 'password':'root0_0', 'database':'capsuledb'}
+import os
+
+DATABASE_URL = os.environ.get("DATABASE_URL")
+
+import psycopg2
+
+def get_db():
+    return psycopg2.connect(DATABASE_URL)
 
 def get_db():
     return mysql.connector.connect(**DB)
